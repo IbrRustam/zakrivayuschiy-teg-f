@@ -1,0 +1,1 @@
+https://ibrrustam.github.io/zakrivayuschiy-teg-f/
