@@ -85,7 +85,7 @@
   font-family: inherit;
   font-size: inherit;
   line-height: 100%;
-  font-variation-settings: var(--main-head-font-weight);
+  font-variation-settings: "wght" var(--main-head-font-weight);
 }
 
 .card__image-wrapper {
@@ -331,9 +331,13 @@
   flex-shrink: 0;
 }
 
+.dialog__form {
+  inline-size: var(--dialog__form-width);
+}
+
 .dialog__button {
   padding-block: 11px;
-  inline-size: var(--dialog__button-width);
+  inline-size: 100%;
 }
 
 .filter__grayscale {

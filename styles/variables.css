@@ -7,7 +7,7 @@
   --color-text: #fff;
   --bg-color: #fff;
   --main-border: 2px solid #000;
-  --accent-font-family: "PressStart2P", sans-serif;
+  --accent-font-family: "PressStart2P", fantasy;
   --accent-font-weight: 400;
   --accent-color: #000;
 
@@ -33,7 +33,7 @@
   --header-block-padding: clamp(122px, 45vh, 130px);
   --button-width: clamp(306px, 100%, 335px);
   --dialog-width: clamp(341px, 100%, 353px);
-  --dialog__button-width: clamp(261px, 100%, 293px);
+  --dialog__form-width: clamp(261px, 100%, 293px);
   --contour-color: #000;
   --animation-fill-color: #f00;
 }
